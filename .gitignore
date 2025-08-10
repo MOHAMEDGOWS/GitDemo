@@ -1,0 +1,2 @@
+*.log
+log/ //To ignore the logfile
