@@ -1,2 +1,2 @@
 *.log
-log/ //To ignore the logfile
+log/ //To ignore the logfile*~
