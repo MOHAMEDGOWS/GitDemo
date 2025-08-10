@@ -1,1 +1,4 @@
-<message>Hello from Master branch</message>
+
+<message>Hello from both branches</message>
+
+<update>Update from GitWork branch</update>
